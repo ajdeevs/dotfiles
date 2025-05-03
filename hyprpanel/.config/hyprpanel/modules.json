@@ -1,0 +1,23 @@
+
+{
+    "custom/cava": {
+        "icon": "",
+        "label": "{cava}",
+        "tooltip": "Audio Visualizer",
+        "truncationSize": -1,
+        "execute": "cava -p ~/.config/cava/config | head -n 1 | sed 's/.*/{\"cava\": \"&\"}/'",
+        "executeOnAction": "",
+        "interval": 100,
+        "hideOnEmpty": false,
+        "scrollThreshold": 0,
+        "actions": {
+            "onLeftClick": "",
+            "onRightClick": "",
+            "onMiddleClick": "",
+            
+"onScrollUp": "hyprpanel vol +5",
+"onScrollDown": "hyprpanel vol -5"
+        }
+    }
+}
+

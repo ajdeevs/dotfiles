@@ -492,5 +492,8 @@
   "theme.bar.buttons.modules.hyprsunset.enableBorder": false,
   "bar.clock.format": "%a %b %d  %I:%M %p",
   "theme.bar.buttons.clock.enableBorder": false,
-  "theme.bar.buttons.media.enableBorder": false
+  "theme.bar.buttons.media.enableBorder": false,
+  "notifications.ignore": [
+    "Spotify"
+  ]
 }

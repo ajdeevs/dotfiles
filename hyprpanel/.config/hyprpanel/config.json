@@ -5,7 +5,7 @@
   "tear": false,
   "menus.transition": "crossfade",
   "scalingPriority": "gdk",
-  "menus.clock.time.military": false,
+  "menus.clock.time.military": true,
   "menus.clock.time.hideSeconds": false,
   "menus.clock.weather.unit": "imperial",
   "theme.bar.menus.menu.systray.dropdownmenu.background": "#000000",

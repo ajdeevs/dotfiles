@@ -37,3 +37,4 @@ fi
 # Kill old wallpaper and start new one
 pkill -x mpvpaper
 mpvpaper -o "loop-file=inf no-audio no-osc fullscreen keepaspect=no" "$MONITOR" "$WALLPAPER_DIR/$SELECTED"
+~/.config/hypr/pywal-asus-keyboard.sh

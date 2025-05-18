@@ -31,4 +31,6 @@ if [ -f "$CONFIG_FILE" ]; then
   fi
 
   mpvpaper -o "loop-file=inf no-audio no-osc fullscreen keepaspect=no" "$MONITOR" "$WALLPAPER_DIR/$SELECTED"
+  ~/.config/hypr/pywal-asus-keyboard.sh
+  ~/.config/hypr/generate-chrome-theme.sh >>~/.config/hypr/theme-update.log 2>&1
 fi

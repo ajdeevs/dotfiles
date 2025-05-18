@@ -60,7 +60,7 @@
   "wallpaper.pywal": true,
   "bar.scrollSpeed": 5,
   "menus.dashboard.powermenu.avatar.image": "/home/ajdevs/Pictures/gengar.png",
-  "wallpaper.enable": true,
+  "wallpaper.enable": false,
   "menus.transitionTime": 200,
   "theme.bar.background": "#000000",
   "theme.bar.buttons.media.icon": "#FFFFFF",

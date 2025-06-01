@@ -1,0 +1,122 @@
+[INFO] Theme directory created at /home/ajdevs/.cache/pywal-chrome-theme
+[INFO] manifest.json generated with colors
+[INFO] Chrome detected, attempting auto-refresh
+[INFO] Chrome theme reloaded
+Theme generated at /home/ajdevs/.cache/pywal-chrome-theme
+Load it in Chrome: chrome://extensions → Developer Mode → Load unpacked → /home/ajdevs/.cache/pywal-chrome-theme
+Theme generated at /home/ajdevs/.cache/pywal-chrome-theme
+Load it in Chrome: chrome://extensions → Developer Mode → Load unpacked → /home/ajdevs/.cache/pywal-chrome-theme
+Theme generated at /home/ajdevs/.cache/pywal-chrome-theme
+Load it in Chrome: chrome://extensions → Developer Mode → Load unpacked → /home/ajdevs/.cache/pywal-chrome-theme
+Theme generated at /home/ajdevs/.cache/pywal-chrome-theme
+Load it in Chrome: chrome://extensions → Developer Mode → Load unpacked → /home/ajdevs/.cache/pywal-chrome-theme
+Theme generated at /home/ajdevs/.cache/pywal-chrome-theme
+Load it in Chrome: chrome://extensions → Developer Mode → Load unpacked → /home/ajdevs/.cache/pywal-chrome-theme
+Extracted colors:
+Background: #0E1517 -> [14, 21, 23]
+Foreground: #d4dad5 -> [212, 218, 213]
+Accent: #837B60 -> [131, 123, 96]
+Chrome theme generated successfully at: /home/ajdevs/.cache/pywal-chrome-theme
+
+To install the theme:
+1. Open Chrome and go to: chrome://extensions/
+2. Enable 'Developer mode' (toggle in top right)
+3. Click 'Load unpacked' button
+4. Select the directory: /home/ajdevs/.cache/pywal-chrome-theme
+
+The theme should now be applied to your Chrome browser!
+Note: You may need to restart Chrome for all changes to take effect.
+Extracted colors:
+Background: #121112 -> [18, 17, 18]
+Foreground: #eae4e8 -> [234, 228, 232]
+Accent: #D2B9C5 -> [210, 185, 197]
+Chrome theme generated successfully at: /home/ajdevs/.cache/pywal-chrome-theme
+
+To install the theme:
+1. Open Chrome and go to: chrome://extensions/
+2. Enable 'Developer mode' (toggle in top right)
+3. Click 'Load unpacked' button
+4. Select the directory: /home/ajdevs/.cache/pywal-chrome-theme
+
+The theme should now be applied to your Chrome browser!
+Note: You may need to restart Chrome for all changes to take effect.
+Extracted colors:
+Background: #000001 -> [0, 0, 1]
+Foreground: #dfe0e1 -> [223, 224, 225]
+Accent: #728FAE -> [114, 143, 174]
+Chrome theme generated successfully at: /home/ajdevs/.cache/pywal-chrome-theme
+
+To install the theme:
+1. Open Chrome and go to: chrome://extensions/
+2. Enable 'Developer mode' (toggle in top right)
+3. Click 'Load unpacked' button
+4. Select the directory: /home/ajdevs/.cache/pywal-chrome-theme
+
+The theme should now be applied to your Chrome browser!
+Note: You may need to restart Chrome for all changes to take effect.
+Stopping existing watcher (PID: 8765)
+Starting pywal theme watcher...
+Sat May 17 03:05:32 PM IST 2025: Theme updated with colors - BG: #370c1f, FG: #ece2ea, Accent: #CA778B
+Watcher started (PID: 9086)
+Theme will auto-update when pywal colors change
+Run '/home/ajdevs/.config/hypr/generate-chrome-theme.sh stop' to stop the watcher
+Sat May 17 03:05:38 PM IST 2025: Theme updated with colors - BG: #370c1f, FG: #ece2ea, Accent: #CA778B
+Sat May 17 03:05:43 PM IST 2025: Theme updated with colors - BG: #370c1f, FG: #ece2ea, Accent: #CA778B
+Sat May 17 03:05:49 PM IST 2025: Theme updated with colors - BG: #370c1f, FG: #ece2ea, Accent: #CA778B
+Stopping existing watcher (PID: 9369)
+Starting pywal theme watcher...
+Sat May 17 03:06:33 PM IST 2025: Theme updated with colors - BG: #0E1517, FG: #d4dad5, Accent: #837B60
+Watcher started (PID: 9952)
+Theme will auto-update when pywal colors change
+Run '/home/ajdevs/.config/hypr/generate-chrome-theme.sh stop' to stop the watcher
+Sat May 17 03:06:38 PM IST 2025: Theme updated with colors - BG: #0E1517, FG: #d4dad5, Accent: #837B60
+Sat May 17 03:06:44 PM IST 2025: Theme updated with colors - BG: #0E1517, FG: #d4dad5, Accent: #837B60
+Sat May 17 03:06:49 PM IST 2025: Theme updated with colors - BG: #0E1517, FG: #d4dad5, Accent: #837B60
+Sat May 17 03:06:55 PM IST 2025: Theme updated with colors - BG: #0E1517, FG: #d4dad5, Accent: #837B60
+Sat May 17 03:07:00 PM IST 2025: Theme updated with colors - BG: #0E1517, FG: #d4dad5, Accent: #837B60
+Sat May 17 03:07:06 PM IST 2025: Theme updated with colors - BG: #0E1517, FG: #d4dad5, Accent: #837B60
+Sat May 17 03:07:11 PM IST 2025: Theme updated with colors - BG: #0E1517, FG: #d4dad5, Accent: #837B60
+Setting up auto-reload extension...
+Could not automatically reload extension
+Sat May 17 03:11:41 PM IST 2025: Theme updated (v1.0.1) - BG: #000001, FG: #dfe0e1, Accent: #728FAE
+
+Extension setup complete!
+To install:
+1. Open Chrome and go to chrome://extensions/
+2. Enable 'Developer mode'
+3. Click 'Load unpacked' and select: /home/ajdevs/.cache/pywal-chrome-theme
+
+The extension will now auto-reload when colors change!
+Sat May 17 03:14:27 PM IST 2025: Chrome theme updated (v1.0.1747475067) - BG: #370c1f, FG: #ece2ea, Accent: #CA778B
+Sat May 17 03:14:46 PM IST 2025: Chrome theme updated (v1.0.1747475086) - BG: #0F0F0F, FG: #e1e2e3, Accent: #7A7C82
+Sat May 17 03:14:52 PM IST 2025: Chrome theme updated (v1.0.1747475092) - BG: #370c1f, FG: #ece2ea, Accent: #CA778B
+Sat May 17 03:15:24 PM IST 2025: Chrome theme updated (v1.0.1747475124) - BG: #0E1225, FG: #ebb9bc, Accent: #556FAD
+Sat May 17 03:32:56 PM IST 2025: Chrome theme updated (v1.0.1747476176) - BG: #370c1f, FG: #ece2ea, Accent: #CA778B
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory
+/home/ajdevs/.config/hypr/start-live-wallpaper.sh: line 35: /home/ajdevs/.config/hypr/generate-chrome-theme.sh: No such file or directory

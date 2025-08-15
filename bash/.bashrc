@@ -15,4 +15,4 @@ PS1='[\u@\h \W]\$ '
 
 # Show cool banner on terminal start
 # toilet -f pagga "Welcome AJDEVS"
-neofetch
+fastfetch

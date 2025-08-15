@@ -434,14 +434,8 @@
   "theme.osd.opacity": 80,
   "bar.layouts": {
     "0": {
-      "left": [
-        "dashboard",
-        "workspaces",
-        "windowtitle"
-      ],
-      "middle": [
-        "cava"
-      ],
+      "left": ["dashboard", "workspaces", "windowtitle"],
+      "middle": ["cava"],
       "right": [
         "volume",
         "network",
@@ -452,34 +446,14 @@
       ]
     },
     "1": {
-      "left": [
-        "dashboard",
-        "workspaces",
-        "windowtitle"
-      ],
-      "middle": [
-        "media"
-      ],
-      "right": [
-        "volume",
-        "clock",
-        "notifications"
-      ]
+      "left": ["dashboard", "workspaces", "windowtitle"],
+      "middle": ["media"],
+      "right": ["volume", "clock", "notifications"]
     },
     "2": {
-      "left": [
-        "dashboard",
-        "workspaces",
-        "windowtitle"
-      ],
-      "middle": [
-        "media"
-      ],
-      "right": [
-        "volume",
-        "clock",
-        "notifications"
-      ]
+      "left": ["dashboard", "workspaces", "windowtitle"],
+      "middle": ["media"],
+      "right": ["volume", "clock", "notifications"]
     }
   },
   "menus.media.noMediaText": "No Media Currently Playing",
@@ -493,7 +467,5 @@
   "bar.clock.format": "%a %b %d  %I:%M %p",
   "theme.bar.buttons.clock.enableBorder": false,
   "theme.bar.buttons.media.enableBorder": false,
-  "notifications.ignore": [
-    "Spotify"
-  ]
+  "notifications.ignore": ["Spotify"]
 }

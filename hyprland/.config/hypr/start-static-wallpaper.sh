@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLPAPER_DIR="$HOME/Pictures/wallpapers" # Change to your static wallpaper dir
+WALLPAPER_DIR="$HOME/wallpapers" # Change to your static wallpaper dir
 CONFIG_FILE="$HOME/.config/hypr/last-static--wallpaper.txt"
 MONITOR="eDP-1"
 HYP_PANEL_CONFIG="$HOME/.config/hyprpanel/config"
@@ -37,9 +37,10 @@ if [ -f "$CONFIG_FILE" ]; then
     pkill -x hyprpanel && hyprpanel &
   fi
 
-  # Start hyprpaper with selected wallpaper
-  hyprpaper --output "$MONITOR" --image "$FRAME"
+  echo -e "preload = $FRAME\nwallpaper = $MONITOR,$FRAME" >~/.config/hypr/hyprpaper.conf
 
+  # Start hyprpaper properly
+  hyprpaper --config ~/.config/hypr/hyprpaper.conf &
   # Run keyboard lighting script
   ~/.config/hypr/pywal-asus-keyboard.sh
 fi

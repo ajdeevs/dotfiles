@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALL_DIR="$HOME/Pictures/wallpapers"
+WALL_DIR="$HOME/wallpapers"
 CONFIG="$HOME/.config/hypr/hyprpaper.conf"
 HYPRLOCK_CONF="$HOME/.config/hypr/hyprlock.conf"
 MONITOR="eDP-1"
@@ -11,6 +11,7 @@ SELECTED=$(ls "$WALL_DIR" | grep -E '\.(jpg|png|jpeg)$' | rofi -dmenu -p "Select
 
 WALL_PATH="$WALL_DIR/$SELECTED"
 
+echo "$SELECTED" >"$HOME/.config/hypr/last-static--wallpaper.txt"
 # Update hyprpaper config
 echo "preload = $WALL_PATH" >"$CONFIG"
 echo "wallpaper = $MONITOR,$WALL_PATH" >>"$CONFIG"

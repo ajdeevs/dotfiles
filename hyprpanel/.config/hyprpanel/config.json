@@ -59,7 +59,7 @@
   "theme.bar.menus.monochrome": false,
   "wallpaper.pywal": true,
   "bar.scrollSpeed": 5,
-  "menus.dashboard.powermenu.avatar.image": "/home/ajdevs/Pictures/gengar.png",
+  "menus.dashboard.powermenu.avatar.image": "/home/ajdevs/Pictures/Screenshots/snapshot_2025-10-09_19-18-36.png",
   "wallpaper.enable": false,
   "menus.transitionTime": 200,
   "theme.bar.background": "#000000",
@@ -434,11 +434,18 @@
   "theme.osd.opacity": 80,
   "bar.layouts": {
     "0": {
-      "left": ["dashboard", "workspaces", "windowtitle"],
-      "middle": ["cava"],
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "cava"
+      ],
       "right": [
         "volume",
         "network",
+        "systray",
         "bluetooth",
         "battery",
         "clock",
@@ -446,14 +453,34 @@
       ]
     },
     "1": {
-      "left": ["dashboard", "workspaces", "windowtitle"],
-      "middle": ["media"],
-      "right": ["volume", "clock", "notifications"]
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
     },
     "2": {
-      "left": ["dashboard", "workspaces", "windowtitle"],
-      "middle": ["media"],
-      "right": ["volume", "clock", "notifications"]
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
     }
   },
   "menus.media.noMediaText": "No Media Currently Playing",
@@ -467,5 +494,10 @@
   "bar.clock.format": "%a %b %d  %I:%M %p",
   "theme.bar.buttons.clock.enableBorder": false,
   "theme.bar.buttons.media.enableBorder": false,
-  "notifications.ignore": ["Spotify"]
+  "notifications.ignore": [
+    "Spotify"
+  ],
+  "bar.customModules.storage.paths": [
+    "/"
+  ]
 }

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALL_DIR="$HOME/wallpapers"
+WALL_DIR="$HOME/.config/backgrounds"
 CONFIG="$HOME/.config/hypr/hyprpaper.conf"
 HYPRLOCK_CONF="$HOME/.config/hypr/hyprlock.conf"
 MONITOR="eDP-1"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLPAPER_DIR="$HOME/wallpapers" # Change to your static wallpaper dir
+WALLPAPER_DIR="$HOME/.config/backgrounds" # Change to your static wallpaper dir
 CONFIG_FILE="$HOME/.config/hypr/last-static--wallpaper.txt"
 MONITOR="eDP-1"
 HYP_PANEL_CONFIG="$HOME/.config/hyprpanel/config"
